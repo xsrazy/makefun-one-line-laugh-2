@@ -24,6 +24,10 @@ the setup is one short sentence, the twist arrives in the second sentence,
 and the image of a phone sending "we need to talk" style notifications is
 instantly recognizable to anyone who has ever tried to silence their
 device and failed.
+
+Revision note: after the first draft the entry was run locally and the
+output file was checked byte for byte against the winning line, with no
+trailing newline, so the program below ships exactly the line above.
 """
 
 import os
